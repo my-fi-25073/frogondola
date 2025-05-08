@@ -541,7 +541,7 @@
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
-      "svg": "",
+      "svg": "../frogondola_models/",
       "vrml": ""
     },
     "page_layout_descr_file": ""
